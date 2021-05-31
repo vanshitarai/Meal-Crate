@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+           xmlns:tools="http://schemas.android.com/tools"
+         android:layout_width="match_parent"
+
+         android:layout_height="match_parent"
+           android:background="#e2e2e2"
+           android:orientation="vertical"
+           tools:context="fragment.FaqsFragment">
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/purple_700"
+               android:textSize="18sp"
+               android:textStyle="bold"
+               android:text="01. What are your delivery hours?"/>
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/black"
+               android:textSize="16dp"
+               android:text="-> Our delivery hour is from 10:00 AM to 08:00 PM."/>
+
+           <TextView
+               android:layout_marginTop="20dp"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/purple_700"
+               android:textSize="18sp"
+               android:textStyle="bold"
+               android:text="02. How much time it takes to deliver order?"/>
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/black"
+               android:textSize="16dp"
+               android:text="->  Generally it takes between 45 minutes to 1 hour time to deliver the order. Due to long distance or heavy traffic, delivery might take few extra minutes." />
+           <TextView
+               android:layout_marginTop="20dp"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/purple_700"
+               android:textSize="18sp"
+               android:textStyle="bold"
+               android:text="03. Can I order from any location?"/>
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/black"
+               android:textSize="16dp"
+               android:text="->  We will deliver to any limited listed area of Bhilai Initially, we will be serving at the sector areas."/>
+
+           <TextView
+               android:layout_marginTop="20dp"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/purple_700"
+               android:textSize="18sp"
+               android:textStyle="bold"
+               android:text="04. Which Payment gateway MealCrate supports?"/>
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/black"
+               android:textSize="15dp"
+               android:text="-> We support Cash On delivery, Paytm, Phonepe, Upi transactions."/>
+
+           <TextView
+               android:layout_marginTop="20dp"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/purple_700"
+               android:textSize="18sp"
+               android:textStyle="bold"
+               android:text="05. Are there any limits for menu items,orders, etc.?"/>
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/black"
+               android:textSize="15dp"
+               android:text="-> Yes! You can only order from one restaurant at a time and quantity of an y food item will only be one."/>
+
+
+           <TextView
+               android:layout_marginTop="20dp"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/purple_700"
+               android:textSize="18sp"
+               android:textStyle="bold"
+               android:text="06. What if I have more questions or need support?"/>
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="@color/black"
+               android:textSize="15dp"
+               android:text="-> Please contact us at hello@cedextech.com, we are glad to assist! " />
+
+</LinearLayout>
+
+
+

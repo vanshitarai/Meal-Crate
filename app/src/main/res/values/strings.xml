@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Food Hunger</string>
+    <string name="enter_your_registered_mobile_number_and_email_below">Enter your registered mobile number and email below:</string>
+    <string name="email_address">Email Address</string>
+    <string name="next">Next</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="password_min_6_characters">Password (Min. 6 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="shared_preferences">RestaurantPreference</string>
+
+
+    <string name="ip_address">13.235.250.119</string>
+    <string name="token">6d72efd16d3f4d</string>
+
+
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favourite_restaurants">Favourite Restaurants</string>
+    <string name="faqs">FAQs</string>
+    <string name="log_out">Log out</string>
+    <string name="order_history">Order History</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="can_t_find_any_restaurants_with_that_name">Can\'t find any restaurants with that name.</string>
+
+</resources>
